@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 0;
     color: #333;
-    background-image: url(images/final.avif);
+    background-image: url(final.avif);
     background-position: center;
     background-size: cover;
 }
